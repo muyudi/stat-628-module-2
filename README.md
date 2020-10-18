@@ -3,7 +3,7 @@ Group members: Yudi Mu, Wenyi Wang, Yuechuan Chen.
 This repository is for STAT 628 Module 2, which is a project to build up a model for body fat percentage of men.  
 There are four folders in the repository: data, code, image and summary.  
 ## data folder
-The raw data is Bodyfat.csv, which includes age, weight, height, bmi, and various body circumference measurements. The variables are listed below:
+The raw data is Bodyfat.csv, which includes age, weight, height, bmi, and various body circumference measurements. The variables are listed below:  
 ID number of individual,   
 Percent body fat from Siri's(1956) equation,  
 Density determined from underwater weighing,  
@@ -32,6 +32,6 @@ The plots included in the folder are:
 ## summary folder
 This folder contains the PDF file of our summary of Module2.
 
-# Shiny app
+### Shiny app
 Besides, our Shiny App can be found here: 
 
