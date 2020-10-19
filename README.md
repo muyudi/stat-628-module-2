@@ -21,7 +21,8 @@ Ankle circumference (cm),
 Biceps (extended) circumference (cm),  
 Forearm circumference (cm),  
 Wrist circumference (cm).  
-The cleaned data is the data after deleting the outliers, revising the calculation errors, removing unused variables, and changing "cm" to "inch". 
+
+The cleaned data is the data after deleting the outliers, revising the calculation errors, removing unused variables, and changing "cm" to "inch".
 ## code folder
 In cleandata.R, it has a first look into the data and find the potential wrong calculation and outliers in the raw data, and the result is saved in the cleaned data file.  
 The code.R includes all other parts where we biuld up the model and do hypothesis testing and draw conclusion on the rule of thumb.
