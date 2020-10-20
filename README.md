@@ -27,12 +27,10 @@ The cleaned data is the data after deleting the outliers, revising the calculati
 In cleandata.R, it has a first look into the data and find the potential wrong calculation and outliers in the raw data, and the result is saved in the cleaned data file.  
 The code.R includes all other parts where we biuld up the model and do hypothesis testing and draw conclusion on the rule of thumb.
 ## image folder
-The plots included in the folder are:
-
-
+The plots included in the folder are the ones referred in the summary.
 ## summary folder
 This folder contains the PDF file of our summary of Module2.
 
 ### Shiny app
-Besides, our Shiny App can be found here: 
+Besides, our Shiny App can be found here: https://yudi-shiny.shinyapps.io/App-1-628-Module2/.
 
